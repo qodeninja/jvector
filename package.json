@@ -1,0 +1,24 @@
+{
+  "name": "jvector",
+  "version": "0.0.1",
+  "description": "vector rendering library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qodeninja/jvector.git"
+  },
+  "keywords": [
+    "vector",
+    "image",
+    "render"
+  ],
+  "author": "qodeninja <qodeninja@outlook.com> (http://qodeparty.com/dist)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/qodeninja/jvector/issues"
+  },
+  "homepage": "https://github.com/qodeninja/jvector"
+}
